@@ -4,7 +4,7 @@
 
 This example uses ethers to transfer USDC from an address on Sepolia to another address on BASE testnet.
 
-## Usage
+## Usage
 
 1. Install dependencies by running `npm install`
 2. Create a `.env` file and add below variables to it:
