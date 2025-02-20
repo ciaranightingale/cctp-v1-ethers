@@ -1,0 +1,17 @@
+{
+    "name": "docs",
+    "version": "1.0.0",
+    "description": "CCTP Quickstart",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "dependencies": {
+        "ethers": "^5.7.2",
+        "node-fetch": "^3.3.2"
+    },
+    "devDependencies": {
+        "dotenv": "^16.4.7"
+    }
+}
